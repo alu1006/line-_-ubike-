@@ -1,0 +1,278 @@
+,_id,sno,sna,tot,sbi,sarea,mday,lat,lng,ar,sareaen,snaen,aren,bemp,act
+0,1,2001,中央大學圖書館,14,4,中壢區,20240715205117,24.968128,121.194666,中大路300號(中央大學校內圖書館前),Zhongli Dist.,National Central University Library,"No.300, Zhongda Rd.",9,1
+1,2,2002,中壢高中,12,5,中壢區,20240715205124,24.960815,121.212038,中央西路二段215號對面人行道,Zhongli Dist.,Jhungli Senior High School,"No.215, Sec. 2, Zhongyang W. Rd. (opposite)",7,1
+2,3,2004,中壢火車站(前站)中和路,24,2,中壢區,20240715205120,24.954042,121.22644,中和路109號空地,Zhongli Dist.,TRA Zhongli Station (Front)Zhonghe Rd.,"No. 109, Zhonghe Rd.",22,1
+3,4,2005,中原大學,28,17,中壢區,20240715205124,24.957943,121.240201,中北路200號(中原大學校內懷恩樓後方空地),Zhongli Dist.,Chung Yuan Christian University,"No.200, Zhongbei Rd.",11,1
+4,5,2006,銀河廣場,12,1,中壢區,20240715205143,24.961716,121.224241,九和一街48號對面銀河廣場人行道,Zhongli Dist.,Galaxy Square,"No.48, Jiuhe 1st St. (opposite)",11,1
+5,6,2007,中壢區公所,10,6,中壢區,20240715205137,24.965697,121.224696,環北路380號旁人行道,Zhongli Dist.,Civil Affairs Office of Zhongli District,"No.380, Huanbei Rd.",4,1
+6,7,2008,光明公園,24,4,中壢區,20240715205125,24.962812,121.217385,民權路322號對面停車場,Zhongli Dist.,Guangming Park,"No.322, Minquan Rd. (opposite)",18,1
+7,8,2009,翠堤橋,12,4,中壢區,20240715205144,24.953265,121.215878,義民路105號旁人行道,Zhongli Dist.,Cuiti Bridge,"No.105, Yimin Rd.",8,1
+8,9,2010,中壢國小,12,2,中壢區,20240715205138,24.954097,121.220349,康樂路61號旁公園,Zhongli Dist.,Chungli Elementary School,"No.61, Kangle Rd. (opposite)",10,1
+9,10,2011,莒光公園,6,3,中壢區,20240715204933,24.951472,121.235693,寧夏二街43號對面莒光公園入口圓環,Zhongli Dist.,Juguang Park,"No.43,Ningxia 2nd St. (opposite)",3,1
+10,11,2012,中壢火車站(後站),10,5,中壢區,20240715205121,24.952352,121.224325,新興路68-94號對面人行道,Zhongli Dist.,TRA Zhongli Station (Rear),"No.68 to No.94, Xinxing Rd. (opposite)",5,1
+11,12,2017,中正公園(元化路),10,5,中壢區,20240715205129,24.960415,121.227300,元化路197巷對面中正公園旁人行道,Zhongli Dist.,Zhongzheng Park(Yuanhua Rd.),"Ln. 197, Yuanhua Rd. (opposite)",5,1
+12,13,2018,中壢區聯合辦公大樓,10,5,中壢區,20240715205141,24.962068,121.230027,溪洲街298號前方人行道,Zhongli Dist.,Zhongli District Joint Office Building,"No.298, Xizhou St.",5,1
+13,14,2019,民族公園,12,0,桃園區,20240715205133,24.995946,121.306636,汕頭街15號對面民族公園旁人行道,Taoyuan Dist.,Minzu Park,"No.15, Shantou St.(opposite)",12,1
+14,15,2020,朝陽森林公園,10,2,桃園區,20240715205140,24.999107,121.312820,朝陽街104-108號對面機車停車場,Taoyuan Dist.,Chaoyang Park,"No.104 to No.108, Chaoyang St.",7,1
+15,16,2021,桃園延平公園,18,6,桃園區,20240715205126,24.980482,121.314998,大豐路187號對面延平公園旁人行道,Taoyuan Dist.,Taoyuan Yenping Park,"No.187, Dafeng Rd.(opposite)",12,1
+16,17,2022,福豐公園,8,3,桃園區,20240715205130,24.985652,121.311513,建國路昆明路口(西北側),Taoyuan Dist.,Fufeng Park,Jianguo Rd./Kunming Rd.,5,1
+17,18,2023,桃園火車站(後站),14,1,桃園區,20240715205142,24.987795,121.314279,延平路26號對面人行道,Taoyuan Dist.,TRA Taoyuan Station (Rear),"No.26, Yanping Rd.(opposite)",13,1
+18,19,2024,桃園建國公園,8,3,桃園區,20240715205145,24.987418,121.317759,桃鶯路93號對面建國公園旁人行道,Taoyuan Dist.,Taoyuan Jianguo Park,"No.93, Taoying Rd. (opposite)",4,1
+19,20,2025,桃園陽明高中,20,0,桃園區,20240715205125,24.980404,121.303296,德壽街8號前方人行道,Taoyuan Dist.,Taoyuan Municipal Yang Ming High School,"No.8, Deshou St.",20,1
+20,21,2026,夢幻公園,12,5,中壢區,20240715205122,24.962541,121.261596,榮安十三街榮民路口(西南側),Zhongli Dist.,Dream Park,Rongan 13th St./Rongmin Rd.,7,1
+21,22,2027,內壢自強公園,12,5,中壢區,20240715205142,24.967686,121.259279,強國路46號旁自強公園側人行道,Zhongli Dist.,Neili Ziqiang Park,"No.46, Qiangguo Rd.",7,1
+22,23,2028,內壢復興公園,8,2,中壢區,20240715205134,24.973630,121.248114,復華街191號對面復興公園旁人行道,Zhongli Dist.,Neili Fuxing Park,"No.191, Fuhua St. (opposite)",6,1
+23,24,2029,元智大學,22,4,中壢區,20240715205129,24.970346,121.263249,遠東路135號(面元智大學左側人行道),Zhongli Dist.,Yuan Ze University,"No.135, Yuandong Rd.",18,1
+24,25,2030,同德國中,10,0,桃園區,20240715205134,25.016130,121.293908,南平路479號對面同德國中旁人行道,Taoyuan Dist.,Tongde Junior High School,"No.479, Nanping Rd. (opposite)",10,1
+25,26,2031,桃園展演中心(同德六街),12,7,桃園區,20240715205142,25.016551,121.299970,同德六街藝文二街口東南側廣場,Taoyuan Dist.,Taoyuan Arts Center(Tongde 6th St.),Tongde 6th St./Yiwen 2nd St.,5,1
+26,27,2032,東溪綠園,16,0,桃園區,20240715205132,24.993122,121.313558,成功路二段1號旁小公園,Taoyuan Dist.,Dongxi Greens,"No.1, Sec. 2, Chenggong Rd.",16,1
+27,28,2033,桃園市立圖書館平鎮分館,12,1,平鎮區,20240715205144,24.940031,121.218322,環南路三段88號右前方人行道,Pingzhen Dist.,Taoyuan Public Library Pingzhen Branch,"No.88, Sec. 3, Huannan Rd.",11,1
+28,29,2034,新勢公園,10,3,平鎮區,20240715205123,24.950692,121.216686,延平路一段181號對面新勢公園旁人行道,Pingzhen Dist.,Xinshi Park,"No.181, Sec. 1, Yanping Rd.(opposite)",7,1
+29,30,2035,三民運動公園,16,0,桃園區,20240715205131,25.000577,121.319691,三民路一段200號前方人行道,Taoyuan Dist.,Sanmin Sports Park,"No.200, Sec. 1, Sanmin Rd.",15,1
+30,31,2037,桃園展演中心(南平路),10,2,桃園區,20240715205118,25.018038,121.298235,南平路336號對面人行道,Taoyuan Dist.,Taoyuan Arts Center (Nanping Rd.),"No.336, Nanping Rd.(opposite)",7,1
+31,32,2038,國強公園,14,3,桃園區,20240715205139,24.993077,121.289327,國強一街益壽一街口(東北側人行道),Taoyuan Dist.,Guochiang Park,Guociang 1st St./Yishou 1st St.,11,1
+32,33,2039,新埔公園,8,3,桃園區,20240715205135,25.015195,121.303725,同安街203號對面人行道,Taoyuan Dist.,Xinpu Park,"No.203, Tong&rsquo;an St.(opposite)",5,1
+33,34,2040,信義國小,6,3,中壢區,20240715205141,24.951017,121.231454,成都路36號對面人行道,Zhongli Dist.,Hsin Yi Elementary School,"No.36, Chengdu Rd.(opposite)",3,1
+34,35,2041,桃園市立圖書館大林分館,12,1,桃園區,20240715205137,24.977812,121.321076,樹仁二街37號後方人行道,Taoyuan Dist.,Taoyuan Public Library Dalin Branch,"No.37, Shuren 2nd St.",11,1
+35,36,2042,桃園火車站(前站),14,0,桃園區,20240715205121,24.989618,121.313022,中正路1號面火車站右方人行道,Taoyuan Dist.,TRA Taoyuan Station (Front),"No.1, Zhongzheng Rd.",14,1
+36,37,2043,瑞慶公園,12,7,桃園區,20240715205124,25.019129,121.292954,中埔一街362號對面瑞慶公園旁人行道,Taoyuan Dist.,Ruiching Park,"No.362, Zhongpu 1st St.(opposite)",5,1
+37,38,2044,中寧公園,6,1,桃園區,20240715205120,25.009993,121.299560,同德二街177號對面中寧公園旁人行道,Taoyuan Dist.,Zhongning Park,"No.177, Tongde 2nd St.(opposite)",5,1
+38,39,2045,陽明運動公園,8,0,桃園區,20240715205118,24.982285,121.308126,介壽路199號前方人行道,Taoyuan Dist.,Yangming Sports Park,"No.199, Jieshou Rd.",8,1
+39,40,2046,大業國小,12,5,桃園區,20240715205131,25.006896,121.314760,民光東路280號對面人行道,Taoyuan Dist.,Da Yie Elementary School,"No.280, Minguang E. Rd.(opposite)",7,1
+40,41,2047,大有國中,12,0,桃園區,20240715205119,25.008585,121.319869,大有路民光東路口西北側人行道,Taoyuan Dist.,Da You Junior High School,Dayou Rd./Minguang E. Rd.,12,1
+41,42,2048,莊敬廣場,16,8,中壢區,20240715205122,24.971851,121.257255,莊敬路38-1號對面自行車停放區,Zhongli Dist.,Zhuangjing Square,"No.38-1, Zhuangjing Rd.(opposite)",7,1
+42,43,2049,吉林路吉利六街口,10,1,中壢區,20240715205135,24.982900,121.250406,吉林路吉利六街口東南側人行道,Zhongli Dist.,Jilin Rd. &amp; Jili 6th St. Intersection,Jilin Rd./Jili 6th St.,9,1
+43,44,2050,龍岡森林公園,20,0,中壢區,20240715205137,24.933974,121.235924,龍岡路三段289號對面龍岡森林公園旁人行道,Zhongli Dist.,Longgang Park,"No.289, Sec. 3, Longgang Rd.(opposite)",19,1
+44,45,2051,君臨公園,22,4,八德區,20240715205139,24.964524,121.305469,忠勇六街1號對面人行道,Bade Dist.,Junlin Park,"No.1, Zhongyong 6th St.(opposite)",18,1
+45,46,2054,桃園龍岡公園,8,8,桃園區,20240715205143,24.99039,121.281064,國豐一街101號對面龍岡公園旁人行道,Taoyuan Dist.,Taoyuan Longgang Park,"No.101, Guofeng 1st St.(opposite)",0,1
+46,47,2055,桃園龍鳳公園,20,4,桃園區,20240715205143,24.989688,121.278943,國豐五街51號對面龍鳳公園旁人行道,Taoyuan Dist.,Taoyuan Longfeng Park,"No.51, Guofeng 5rd St.(opposite)",15,1
+47,48,2056,桃園市政府文化局,12,0,桃園區,20240715205122,24.994184,121.300537,縣府路21號面文化局左側路側,Taoyuan Dist.,"Departmaent of Cultural Affairs, Taoyuan","No.21, Xianfu Rd.",9,1
+48,49,2057,成功春日路口,22,9,桃園區,20240715205122,24.994177,121.317130,成功路二段春日路口東南側人行道,Taoyuan Dist.,Chenggong &amp; Chunri Rd. Intersection,Chenggong Rd./Chunri Rd.,13,1
+49,50,2058,忠孝廣場,8,0,中壢區,20240715205142,24.972516,121.256853,忠孝路8-22號對面路側,Zhongli Dist.,Zongxiao Square,"No.8-22, Zhongxiao Rd.(opposite)",7,1
+50,51,2059,忠福廣場,10,3,中壢區,20240715205133,24.971805,121.227697,南園二路292號對面忠福廣場旁人行道,Zhongli Dist.,Zhongfu Square,"No.292, Nanyuan 2nd Rd.(opposite)",7,1
+51,52,2060,健行科技大學,16,0,中壢區,20240715205141,24.946778,121.229011,健行路229號(商學大樓後人行道),Zhongli Dist.,Chien Hsin University of Science and Technology,"No.229, Jianxing Rd.",16,1
+52,53,2061,啟英高中,12,0,中壢區,20240715205136,24.975610,121.234553,西園路76號對面啟英高中旁人行道,Zhongli Dist.,Chi-Ying Senior High School,"No.76, Xiyuan Rd.(opposite)",11,1
+53,54,2062,內壢文化公園,10,4,中壢區,20240715205131,24.979567,121.250102,文化路長春二路西北側公園旁人行道,Zhongli Dist.,Neili Wenhua Park,Wenhua Rd./Changchun 2nd Rd.,6,1
+54,55,2063,萬能科技大學,20,9,中壢區,20240715205121,24.992749,121.229925,萬能路1號(萬芳樓後方人行道),Zhongli Dist.,Vanung University of Technology,"No.1, Changchun 2nd Rd.",9,1
+55,56,2064,中德里休閒廣場,18,4,桃園區,20240715205142,24.962275,121.293209,國際一路國際二路口西南側停車場,Taoyuan Dist.,Zhongde Square,Guoji 1st Rd./Guoji 2nd Rd.,13,1
+56,57,2065,桃園巨蛋,18,0,桃園區,20240715205126,24.995393,121.323924,三民路100號對面人行道,Taoyuan Dist.,Taoyuan Arena,"No.100, Sanmin Rd.(opposite)",17,1
+57,58,2066,龜山區公所,10,4,龜山區,20240715205125,24.992532,121.337660,中山街26號前方人行道,Guishan Dist.,Civil Affairs Office of Guishan District,"No.26, Zhongshan St.",6,1
+58,59,2067,龜山國中,12,0,龜山區,20240715205143,24.997536,121.339485,自強西路66號前方人行道,Guishan Dist.,Guishan Junior High School,"No.66, Ziqiang W. Rd.",0,0
+59,60,2068,西門綠園,10,3,桃園區,20240715205126,24.993968,121.303884,文康街61號對面人行道,Taoyuan Dist.,Ximen Greens,"No.61, Wenkang St.(opposite)",7,1
+60,61,2069,衛福部桃園醫院,10,2,桃園區,20240715205143,24.979389,121.268981,龍壽街60號對面人行道,Taoyuan Dist.,"Taoyuan General Hospital, Ministry of Health and Welfare","No.60, Longshou St.(opposite)",8,1
+61,62,2070,環中東永福路口,10,0,中壢區,20240715205036,24.962030,121.255168,環中東路325號前人行道,Zhongli Dist.,Huanzhong E. &amp; Yongfu Rd. Intersection,"No.325, Huanzhong E. Rd.",0,0
+62,63,2077,月眉停車場,34,9,大溪區,20240715205135,24.889279,121.287613,月眉15鄰105號,Daxi Dist.,Yuemei Parking Lot,"No.105, Yuemei",22,1
+63,64,2078,大溪中正公園,28,13,大溪區,20240715205136,24.883151,121.285453,普濟路80號旁停車場,Daxi Dist.,Daxi Zhongzheng Park,"No.80, Puji Rd.",15,1
+64,65,2079,忠孝兒童遊樂場,12,10,桃園區,20240715205117,24.986849,121.294739,宏昌七街泰昌三街西南側廣場,Taoyuan Dist.,Zhongxiao Children's Playground,Hongchang 7th St./Taichang 3rd St.,0,1
+65,66,2080,桃園市政府,18,0,桃園區,20240715205135,24.992799,121.301680,縣府路3號對面廣場,Taoyuan Dist.,Taoyuan City Government,"No.3, Xianfu Rd.(opposite)",15,1
+66,67,2081,五權公園,8,2,中壢區,20240715205136,24.958867,121.204579,正大街五族二街西北側人行道,Zhongli Dist.,Wuquan Park,Zhengda St./Wuzu 2nd St.,5,1
+67,68,2082,中壢新興公園,8,1,中壢區,20240715205134,24.945265,121.226050,林森路90號前方人行道,Zhongli Dist.,Zhongli Xinxing Park,"No.90, Linsen Rd.",6,1
+68,69,2083,桃園市立圖書館內壢分館,14,2,中壢區,20240715205135,24.977945,121.257972,光華三街10號前方人行道,Zhongli Dist.,Taoyuan Public Library Neili Branch,"No.10, Guanghua 3rd St.",11,1
+69,70,2085,中央大學依仁堂,14,2,中壢區,20240715205143,24.967119,121.190958,中大路300號(松苑餐廳前方廣場),Zhongli Dist.,"Office of Physical Education, NCU","No.300, Zhongda Rd.",12,1
+70,71,2088,廣豐公園,28,3,八德區,20240715205121,24.966015,121.297907,公園路廣豐二街東北側人行道,Bade Dist.,Guangfeng Park,Gongyuan Rd./Guangfeng 2nd St.,22,1
+71,72,2095,璟都江山社區,8,4,龜山區,20240715205020,25.0023,121.342803,光峰路131巷6號前方人行道,Guishan Dist.,Jingdu-Jiangshan Community,"No.6, Ln. 131, Guangfeng Rd.",4,1
+72,73,2099,捷運領航站(A17),10,4,大園區,20240715205141,25.023021,121.222169,領航北路四段358號對面人行道,Dayuan Dist.,MRT Linghang Station (A17),"No.358, Sec. 4, Linghang N. Rd.(opposite)",6,1
+73,74,2100,捷運高鐵桃園站(A18),16,0,中壢區,20240715205122,25.013775,121.213932,高鐵北路一段6號(對面捷運站出口外側人行道),Zhongli Dist.,MRT HSR Taoyuan Station (A18),"No.6, Sec. 1, Gaotie N. Rd.(opposite)",16,1
+74,75,2101,捷運桃園體育園區站(A19),4,0,中壢區,20240715205125,25.001568,121.202782,高鐵南路二段369號對面人行道,Zhongli Dist.,MRT Taoyuan Sports Park Station (A19),"No.369, Sec. 2, Gaotie S. Rd.(opposite)",4,1
+75,76,2102,捷運環北站(A21),8,1,中壢區,20240715205126,24.967563,121.220967,中豐北路26號旁人行道,Zhongli Dist.,MRT Huanbei Station (A21),"No.26, Zhongfeng N. Rd.",7,1
+76,77,2103,青埔國中,8,2,中壢區,20240715205124,25.010832,121.205798,領航北路二段281號前方人行道,Zhongli Dist.,Qing Pu Junior High School,"No.281, Sec. 2, Linghang N. Rd.",6,1
+77,78,2104,領航公園,22,6,中壢區,20240715205122,25.007413,121.201054,領航北路一段永裕路口北側公園旁人行道,Zhongli Dist.,Linghang Park,"Sec. 1, Linghang N. Rd./Yongyu Rd.",16,1
+78,79,2105,仁祥公園,18,1,中壢區,20240715205140,24.948864,121.260842,華祥一街3巷2號對面人行道,Zhongli Dist.,Renxiang Park,"No.2, Ln. 3, Huaxiang 1st St.(opposite)",15,1
+79,80,2106,篤行公園,8,5,中壢區,20240715205135,24.958288,121.263280,永福路47號對面人行道,Zhongli Dist.,Duxing Park,"No.47, Yongfu Rd.(opposite)",3,1
+80,81,2107,桃園市政府警察局桃園分局,10,1,桃園區,20240715205136,25.000418,121.299434,永安路375號旁人行道,Taoyuan Dist.,Taoyuan Police Department Taoyuan Branch,"No.375, Yong&rsquo;an Rd.",8,1
+81,82,2108,慈文國中,12,3,桃園區,20240715205131,25.008916,121.301842,中正路835號前方人行道,Taoyuan Dist.,Tzu Wen Junior High School,"No.835, Zhongzheng Rd.",7,1
+82,83,2109,同新公園,12,6,桃園區,20240715205136,25.012389,121.305633,同安街經國路251巷口(東南側人行道),Taoyuan Dist.,Tongxin Park,"Tong&rsquo;an St./Ln. 251, Jingguo Rd.",6,1
+83,84,2110,桃園永康公園,8,8,桃園區,20240715205118,25.001890,121.302925,力行路中正五街口東南側人行道,Taoyuan Dist.,Taoyuan Yongkang Park,Lixing Rd./Zhongzheng 5th St.,0,1
+84,85,2111,桃園市立游泳池,10,10,桃園區,20240715205119,24.989458,121.292088,吉昌街86號(對面人行道),Taoyuan Dist.,Taoyuan City Swimming Pool,"No.86, Jichang St.(opposite)",0,1
+85,86,2112,寶山公園,14,7,桃園區,20240715205139,25.013132,121.313903,民有三街517號對面公園旁人行道,Taoyuan Dist.,Baoshan Park,"No.517, Minyou 3rd St.(opposite)",7,1
+86,87,2113,國強一街上海路口,12,6,桃園區,20240715205124,24.992059,121.282126,國強一街上海路口西北側高架橋下廣場,Taoyuan Dist.,Guochiang 1st St. &amp; Shanghai Rd. Intersection,Guoqiang 1st St./Shanghai Rd.,6,1
+87,88,2114,青溪公園,10,3,桃園區,20240715205123,25.000959,121.317024,自強路217號前方人行道,Taoyuan Dist.,Qingxi Park,"No.217, Ziqiang Rd.",7,1
+88,89,2115,甲蟲公園,8,3,中壢區,20240715205122,24.977542,121.252751,元生二街元生三街口西北側公園旁人行道,Zhongli Dist.,Jiachong Park,Yuansheng 2nd St./Yuansheng 3rd St.,5,1
+89,90,2116,中壢中央公園,12,9,中壢區,20240715205126,24.956663,121.226195,建國北路9號對面公園人行道,Zhongli Dist.,Zhongli Central Park,"No.9, Jianguo N. Rd.(opposite)",3,1
+90,91,2117,新榮公園,8,8,平鎮區,20240715205024,24.945991,121.214981,振興西路新德街口西北側公園旁人行道,Pingzhen Dist.,Xinrong Park,Zhenxing W. Rd./Xinde St.,0,1
+91,92,2118,重慶公園,18,4,八德區,20240715205134,24.955984,121.304068,重慶街183號對面公園旁人行道,Bade Dist.,Chongqing Park,"No.183, Chongqing St.(opposite)",13,1
+92,93,2120,龜山國小,14,10,龜山區,20240715205123,24.994765,121.340557,大同路23號對面人行道,Guishan Dist.,Guishan Elementary School,"No.23, Datong Rd.(opposite)",4,1
+93,94,2123,大同公園,12,5,龜山區,20240715205122,24.989332,121.342481,德明路77巷65號對面公園旁人行道,Guishan Dist.,Datong Park,"No.65, Ln. 77, Deming Rd.(opposite)",6,1
+94,95,2127,桃園龍山國小,8,2,桃園區,20240715205130,24.981988,121.271035,龍祥街94號對面人行道,Taoyuan Dist.,Taoyuan Long Shan Elementary School,"No.94, Longxiang St.(opposite)",6,1
+95,96,2129,桃禧航空城酒店,10,5,大園區,20240715205116,25.061756,121.175354,大觀路777號(桃禧航空城酒店園航路側人行道),Dayuan Dist.,Hotel Orchard Park,"No.777, Daguan Rd.",3,1
+96,97,2138,大竹國小,28,7,蘆竹區,20240715205120,25.024481,121.259057,南竹路五段271號對面人行道,Luzhu Dist.,Dazhu Elementary School,"No.271, Sec. 5, Nanzhu Rd.(opposite)",16,1
+97,98,2140,桃園中正公園(同安街),14,2,桃園區,20240715205121,25.023701,121.297919,同安街601號旁公園人行道,Taoyuan Dist.,Taoyuan Zhongzheng Park (Tung'an St.),"No.601, Tong&rsquo;an St.",11,1
+98,99,2141,建新公園,10,2,桃園區,20240715205140,24.979206,121.310324,陽明十二街25號對面公園旁人行道,Taoyuan Dist.,Jianxin Park,"No.25, Yangming 12th St.(opposite)",8,1
+99,100,2143,平鎮和平公園,8,2,平鎮區,20240715205131,24.947529,121.221136,莒光路39號對面路側,Pingzhen Dist.,Pingzhen Heping Park,"No.39, Juguang Rd.(opposite)",6,1
+100,101,2147,龍潭大池(龍元路),26,0,龍潭區,20240715205130,24.863851,121.210032,龍元路144號對面龍潭大池旁人行道,Longtan Dist.,Longtan Pond (Longyuan Rd.),"No.144, Longyuan Rd.(opposite)",25,1
+101,102,2149,黎明公園,6,3,中壢區,20240715205129,24.939894,121.256127,同慶路榮民南路口西南側公園前方路側,Zhongli Dist.,Liming Park,Tongqing Rd./Rongmin S. Rd.,2,1
+102,103,2150,興仁公園,10,1,中壢區,20240715205139,24.966256,121.263548,興仁路二段120號對面公園內人行道,Zhongli Dist.,Xinren Park,"No.120, Sec. 2, Xingren Rd.(opposite)",9,1
+103,104,2151,自立新村(榮安一街),10,2,中壢區,20240715205141,24.965432,121.253381,榮安一街自立三街2巷北側人行道,Zhongli Dist.,Zili Community (Rong'an 1st St.),"Rong&rsquo;an 1st St./Ln. 2, Zili 3rd St.",6,1
+104,105,2152,晉元路仁德一街口,6,3,中壢區,20240715205136,24.950926,121.261293,仁德一街28-4號對面路側,Zhongli Dist.,Jinyuan Rd. &amp; Rende 1st St. Intersection,"No.28-4, Rende 1st St.(opposite)",2,1
+105,106,2153,龍和公園,8,2,中壢區,20240715205135,24.934221,121.244805,龍和三街290號(活動中心旁公園人行道),Zhongli Dist.,Longhe Park,"No.290, Longhe 3rd St.",5,1
+106,107,2154,萬壽中興路口,12,7,龜山區,20240715205117,24.994938,121.337264,萬壽路二段981號對面停車場,Guishan Dist.,Wanshou &amp; Zhongxin Rd. Interstction,"No.981, Sec. 2, Wanshou Rd.(opposite)",5,1
+107,108,2155,大同西路簡易公園,8,4,桃園區,20240715205120,24.988164,121.304047,大同西路7巷4號對面公園,Taoyuan Dist.,Datong W. Rd. Simple Park,"No.4, Ln. 7, Datong W. Rd.(opposite)",4,1
+108,109,2156,霖園兒童公園,18,3,桃園區,20240715205123,24.986079,121.287879,國鼎二街132號(對面公園東側人行道),Taoyuan Dist.,Linyuan Children's Park,"No.132, Guoding 2nd St.(opposite)",15,1
+109,110,2157,家樂福經國店,12,7,桃園區,20240715205120,25.016383,121.30502,天祥三街10號對面人行道,Taoyuan Dist.,Carrefour Jingguo Branch,"No.10, Tianxiang 3rd St.(opposite)",4,1
+110,111,2158,玉山公園,14,2,桃園區,20240715205120,24.982621,121.301174,南豐二街120號斜前方公園側,Taoyuan Dist.,Yushan Park,"No.120, Nanfeng 2nd St.(opposite)",10,1
+111,112,2159,會稽國中,8,0,桃園區,20240715205125,25.016115,121.313437,大興路222號(面會稽國中校門左側人行道),Taoyuan Dist.,Kuai Ji Junior High School,"No.222, Daxing Rd.(opposite)",7,1
+112,113,2165,經國國中,8,1,桃園區,20240715205152,25.0217,121.303596,經國路276號(面經國國中校門左側人行道),Taoyuan Dist.,Jingguo Junior High School,"No.276, Jingguo Rd.(opposite)",6,1
+113,114,2169,風禾公園,16,4,桃園區,20240715205125,25.000991,121.289893,文中二路慈文路口東北側人行道,Taoyuan Dist.,Fenghe Park,Wenzhong 2nd Rd./Ciwen Rd.,10,1
+114,115,2170,財政部北區國稅局桃園分局,6,0,桃園區,20240715205134,25.003782,121.320733,三元街150號,Taoyuan Dist.,"National Taxation Bureau of the Nothern Area, Ministry of Finance (Taoyuan Branch)","No.150, Sanyuan St.",6,1
+115,116,2171,桃園觀光夜市旅客服務中心,12,2,桃園區,20240715205135,25.004089,121.308517,正康三街8號旁停車場,Taoyuan Dist.,Taoyuan Tourist Night Market Service Center,"No.8, Zhengkang 3rd St.",10,1
+116,117,2172,大園國際高中,14,7,大園區,20240715205121,25.020834,121.220506,大成路二段37號對面人行道,Dayuan Dist.,Dayuan International Senior High School,"No.37, Sec. 2, Dacheng Rd.(opposite)",6,1
+117,118,2176,常樂公園,10,6,中壢區,20240715205133,24.976881,121.250856,文化二路237-243號旁公園人行道,Zhongli Dist.,Changle Park,"No.237-243, Wenhua 2nd Rd.",4,1
+118,119,2177,金鋒太子,6,3,中壢區,20240715205129,24.945911,121.248625,金鋒四街50巷2號對面,Zhongli Dist.,Jinfeng Prince,"No.2, Ln. 50, Jinfeng 4th St.(opposite)",3,1
+119,120,2178,華愛兒童公園,8,2,中壢區,20240715205137,24.952303,121.259724,華愛街35號對面公園旁人行道,Zhongli Dist.,Hua-Ai Children's Park,Hua-Ai Children's Park,5,1
+120,121,2179,南榮公園,22,10,蘆竹區,20240715205135,25.045165,121.291398,南平街洛陽街口南側公園旁人行道,Luzhu Dist.,Nanrong Park,Nanping St./Luoyang St.,12,1
+121,122,2180,龍潭行政園區,26,3,龍潭區,20240715205124,24.869962,121.221761,中興路681號對面人行道,Longtan Dist.,Longtan Administrative Park,"No.681, Zhongxing Rd.(opposite)",19,1
+122,123,2181,過嶺國中,6,1,中壢區,20240715205122,24.960203,121.175517,松智路過嶺路一段路口人行道,Zhongli Dist.,Guo Ling Junior High School,"Songzhi Rd./Sec. 1, Guoling Rd.",4,1
+123,124,2182,南方莊園,6,2,中壢區,20240715205119,24.967284,121.177906,樹籽路8號對面停車場旁人行道,Zhongli Dist.,Nanfang Park,"No.8, Shuzi Rd.(opposite)",4,1
+124,125,2184,陸光河濱公園,20,1,龜山區,20240715205129,24.99485,121.330472,同心二路19號對面公園內人行道,Guishan Dist.,Luguang Riverside Park,"No.19, Tongxin 2nd Rd.(opposite)",19,1
+125,126,2185,山福里集會所,8,0,龜山區,20240715205137,24.988965,121.331988,中興路152號旁停車場,Guishan Dist.,Shanfu Civil Activity Center,"No.152, Zhongxing Rd.",8,1
+126,127,2186,大檜溪公園,6,1,桃園區,20240715205124,25.013781,121.31682,興一街65巷50號(地下停車場出入口旁公園),Taoyuan Dist.,Dakuaixi Park,"No.50, Ln. 65, Xing 1st St.",5,1
+127,128,2201,大園國中,26,10,大園區,20240715205115,25.053976,121.171991,園科路400號前人行道,Dayuan Dist.,Dayuan Junior High School,"No.400, Yuanhang Rd.",15,1
+128,129,2202,清華高中,18,8,新屋區,20240715205133,24.981699,121.107716,中華路658號前方人行道,Xinwu Dist.,Ching Hua High School,"No.658, Zhonghua Rd.",10,1
+129,130,2203,觀音高中,24,8,觀音區,20240715205129,25.014978,121.133881,文中路46號對面人行道,Guanyin Dist.,Taoyuan Municipal Guanyin High School,"46F., Wenzhong Rd.(opposite)",16,1
+130,131,2204,溫州公園,8,0,桃園區,20240715205128,25.008,121.29825,大興西路二段139巷173號旁公園人行道,Taoyuan Dist.,Wenzhou Park,"No.173, Ln. 139, Sec. 2, Daxing W. Rd.",8,1
+131,132,2206,南亞技術學院,16,2,中壢區,20240715205123,24.93756,121.25171,中山東路三段414號內機車停車場,Zhongli Dist.,Nanya Institute of Technology,"No.414, Sec. 3, Zhongshan E. Rd.",14,1
+132,133,2207,華勛公園,22,7,中壢區,20240715205139,24.946622,121.261741,華仁街68巷34號對面公園,Zhongli Dist.,Huaxun Park,"No.34, Ln. 68, Huaren St.(opposite)",14,1
+133,134,2209,楓樹公園,22,4,龜山區,20240715205121,25.00465,121.34496,楓樹一街19號對面公園,Guishan Dist.,Fengshu park,"No.19, Fengshu 1st St.(opposite)",17,1
+134,135,2212,青塘園,18,2,中壢區,20240715205132,25.00641,121.20492,洽溪路133號對面公園人行道,Zhongli Dist.,Qingtang Garden,"No.133, Qiaxi Rd. (oppsite)",15,1
+135,136,2213,龍安公園,6,4,桃園區,20240715205144,24.99153,121.27619,國豐七街122號對面公園,Taoyuan Dist.,Longan Park,"No.122, Guofeng 7th St.(oppsite)",2,1
+136,137,2217,大溪河濱公園,30,1,大溪區,20240715205138,24.89212,121.28389,瑞興段2407地號內停車格,Daxi Dist.,Daxi Riverside Park,No.2407 of Ruixing Section ,27,1
+137,138,2218,大明公園,20,9,八德區,20240715205143,24.96875,121.32744,興隆街2號對面公園,Bade Dist.,Daming Park,"No.2, Xinglong St.(oppsite)",8,1
+138,139,2219,國軍桃園總醫院,26,14,龍潭區,20240715205119,24.87498,121.23637,中興路179號對面人行道,Longtan Dist.,Taoyuan Armed Forces General Hospital,"No.179, Zhongxing Rd. (opposite)",10,1
+139,140,2220,元聖宮,22,1,八德區,20240715205128,24.96384,121.27843,東泰街2號旁空地,Bade Dist.,Yuansheng Temple,"No.2, Dongtai St.",21,1
+140,141,2221,大江購物中心,12,5,中壢區,20240715205127,25.00127,121.22939,中園路二段501號前方人行道,Zhongli Dist.,Metrowalk,"No.501, Sec. 2, Zhongyuan Rd.",7,1
+141,142,2222,老街溪河川教育中心,12,1,中壢區,20240715205123,24.953739,121.21856,中原路58號前方人行道,Zhongli Dist.,LaoJier River Education Center,"No.58, Gongxue Rd.",10,1
+142,143,2224,兒九公園,8,1,大園區,20240715205119,25.005083,121.212793,致遠街致維街口公園內,Dayuan Dist.,Erjiu Park,Zhiyuan St./Jhihwei St.,6,1
+143,144,2225,永定二保定三街89巷口,8,0,桃園區,20240715205132,24.99746,121.298213,永定二街保定三街89巷口公園內,Taoyuan Dist.,"Yongding 2nd &amp; Ln. 89, Baoding 3rd St. Intersection","Yongding 2nd St./Ln. 89, Baoding 3rd St.",8,1
+144,145,2226,八德霖園公園,20,1,八德區,20240715205118,24.97847,121.300762,介壽路一段16巷73號旁公園人行道,Bade Dist.,Bade Linyuan Park,"No.73, Ln. 16, Sec. 1, Jieshou Rd.(opposite)",19,1
+145,146,2227,建德公園,28,5,八德區,20240715205130,24.931091,121.281626,長興路61號對面公園,Bade Dist.,Jiande Park,"No.61, Changxing Rd.(opposite)",22,1
+146,147,2228,龍岡圓環,6,1,中壢區,20240715205129,24.926002,121.244046,龍東路龍岡路三段路口,Zhongli Dist.,Longgang Roundabout,"Longdong Rd./Sec. 3, Longgang Rd.",4,1
+147,148,2229,成功國小,6,6,桃園區,20240715205121,24.999511,121.306346,中正三街與長春路口,Taoyuan Dist.,Chenggong Elementary School,Zhongzheng 3rd St./ Changchun Rd.,0,1
+148,149,2232,綠九公園,26,10,蘆竹區,20240715205124,25.061109,121.29726,六福路/六福路247巷路口旁公園,Luzhu Dist.,Lujiu Park,"Liufu Rd./Ln. 247, Liufu Rd.",16,1
+149,150,2233,內厝社區活動中心,16,5,中壢區,20240715205142,24.989317,121.179425,中正路四段112號前方路側,Zhongli Dist.,Neicuo Activity Center,"No.112, Sec. 4, Zhongzheng Rd.",11,1
+150,151,2235,普忠路770巷口,10,3,中壢區,20240715205121,24.954231,121.251253,普忠路605號對面人行道,Zhongli Dist.,"Ln. 770, Puzhong Rd.","No.605, Puzhong Rd.(opposite)",7,1
+151,152,2236,青埔國小,8,2,中壢區,20240715205134,25.00662,121.21368,新生路四段127號對面人行道,Zhongli Dist.,Qingpu Elementary School,"No.127, Sec. 4, Sinsheng Rd.(opposite)",5,1
+152,153,2237,南崁溪自行車道(長壽路口),18,4,龜山區,20240715205115,25.001722,121.347685,半嶺段 44地號,Guishan Dist.,Nankan River Bikeway ( Changshou Rd. ),No. 44 of Banling Section,12,1
+153,154,2239,桃園區南平運動中心,12,7,桃園區,20240715205132,25.021357,121.306156,南平路23號對面人行道,Taoyuan Dist.,Taoyuan District Naiping Sports Center,"No.23, Nanping Rd.",5,1
+154,155,2240,溪濱公園,22,1,八德區,20240715205142,24.933108,121.278891,廣興二路廣興五街口旁公園,Bade Dist.,Xibin Park,"Guangxing 5th St., Bade Dist., Taoyuan City ",21,1
+155,156,2243,中德里市民活動中心,14,3,桃園區,20240715205139,24.977868,121.287946,國際路一段與國際路一段678巷口,Taoyuan Dist.,Zhongde Civil Activity Center,"Sec. 1, Guoji Rd/Ln. 678, Sec. 1, Guoji Rd.",11,1
+156,157,2245,向陽公園,20,11,桃園區,20240715205136,24.997013,121.29609,正光路186巷50號對面人行道,Taoyuan Dist.,Xiangyang Park,"No.50, Ln. 186, Zhengguang Rd.(opposite)",7,1
+157,158,2246,國豐公園,12,9,桃園區,20240715205138,24.987028,121.279348,龍鳳三街65巷2號對面公園,Taoyuan Dist.,Guofeng Park,"No.2, Ln. 65, Longfeng 3rd St.",3,1
+158,159,2247,公七公園,8,2,中壢區,20240715205117,25.008599,121.219904,青商路288-298斜對面公園內,Zhongli Dist.,Gongqi Park,"No.288, Qingshang Rd.",5,1
+159,160,2248,義興公園,8,4,平鎮區,20240715205116,24.949106,121.209494,義興街55號對面公園人行道,Pingzhen Dist.,Yixing Park,"No.55, Yixing St.(opposite)",4,1
+160,161,2250,瑞塘公有停車場,22,4,楊梅區,20240715205139,24.908548,121.179031,萬大路187號對面停車場,Yangmei Dist.,Rueytarng Parking Lot ,"No.187, Wanda Rd.(opposite)",16,1
+161,162,2251,至善綠園,8,3,中壢區,20240715205136,24.940354,121.249948, 龍昌路32號對面公園,Zhongli Dist.,Zhishan Greens,"No.32, Longchang Rd.(opposite)",5,1
+162,163,2252,仁和國小,18,13,大溪區,20240715205116,24.897638,121.276781,仁和二街50號旁人行道,Daxi Dist.,Renhe Elementary School,"No.50, Renhe 2nd St.(opposite)",5,1
+163,164,2253,中鑄公園,8,0,中壢區,20240715205118,24.968527,121.250653,中華路一段619巷31號對面公園,Zhongli Dist.,Zhongzhu Park ,"No.31, Ln. 619, Sec. 1, Zhonghua Rd.",7,1
+164,165,2254,大潤發中壢店,12,7,中壢區,20240715205118,24.95524533,121.2348423,中北路二段468號南側人行道,Zhongli Dist.,RT-Mart Zhongli Store,"No. 468, Section 2, Zhongbei Road.",4,1
+165,166,2256,北門國小,6,1,桃園區,20240715205143,25.007437,121.306712,大連一街103號對面人行道,Taoyuan Dist.,Bei Men Elementary School,"No.103, Aly. 825, Dalian 1st St.",5,1
+166,167,2258,大魯閣(中正路),16,11,桃園區,20240715205130,25.030046,121.293195,中正北路2巷16號對面廣場,Taoyuan Dist.,TAROKO SPORTS (Zhongzheng Rd.),"No.16, Ln. 2, Jhongjheng N. Rd.",4,1
+167,168,2259,同安國小,8,3,桃園區,20240715205125,25.021257,121.297788,同德十一街33號對面人行道,Taoyuan Dist.,Tong An Elementary School,"No.33, Tongde 11th St.",5,1
+168,169,2260,文昌國中,10,1,桃園區,20240715205133,25.010094,121.308003,民生路729號前方人行道,Taoyuan Dist.,Wen Chang Junior High School,"No.729, Minsheng Rd.",9,1
+169,170,2263,桃園市客家文化館,20,0,龍潭區,20240715205143,24.845599,121.234624,中正路三林段500號前方路側,Longtan Dist.,Taoyuan Hakka Culture Hall,"No.500, Sec. Sanlin, Zhongzheng Rd.",19,1
+170,171,2264,百年大鎮社區,18,2,龍潭區,20240715205118,24.877751,121.21176,中豐路279號前方人行道,Longtan Dist.,Bainian Town,"No.279, Zhongfeng Rd.",14,1
+171,172,2266,十大觀光小城公園,30,4,大溪區,20240715205131,24.905108,121.284806,介壽路965號對面公園,Daxi Dist.,Ten Sightseeing Town Park,"No.965, Jieshou Rd.(opposite)",23,1
+172,173,2268,八德藝文廣場,18,4,八德區,20240715205143,24.933575,121.299289,瑞發街興豐路825巷口旁空地,Bade Dist.,Bade Arts Square,"Aly. 825, Xingfeng Rd., Bade Dist",13,1
+173,174,2270,大忠停車場,30,3,八德區,20240715205132,24.958435,121.300971,大忠街140號對面人行道,Bade Dist.,Dazhong Parking Lot,"No.140, Dazhong St.(opposite)",26,1
+174,175,2274,龍興國中,8,2,中壢區,20240715205121,24.937841,121.236378,龍勇路100號前方人行道,Zhongli Dist.,Longxing Junior High School,"No.100, Longyong Rd.",6,1
+175,176,2275,竹風青田,8,7,中壢區,20240715205115,25.011504,121.20184,永園路一段130號前方人行道,Zhongli Dist.,TrueFull QingTian,"No.130, Yongyuan Rd.",0,1
+176,177,2277,龍安里集會所,18,4,中壢區,20240715205143,24.93149,121.25766,龍江路99號前方廣場,Zhongli Dist.,Longan Activity Center,"No.99, Longjiang Rd.",11,1
+177,178,2280,國信公園,18,4,桃園區,20240715205136,24.994389,121.286743,國信街1號對面公園,Taoyuan Dist.,Guosin Park,"No.1, Guoxin St.(opposite)",13,1
+178,179,2281,經國轉運站(經國路),10,4,桃園區,20240715205133,25.02986,121.3008,水汴頭段14地號園道內,Taoyuan Dist.,JingGuo Bus Station,No.14 of Shubiantou Section ,6,1
+179,180,2282,中壢仁德公園,22,4,中壢區,20240715205116,24.953347,121.266529,崁頂路崁頂路1401巷口旁人行道,Zhongli Dist.,Zhongli Rende Park,"Ln. 1401, Kanding Rd./Kanding Rd.",18,1
+180,181,2283,僑愛停車場,30,0,大溪區,20240715205144,24.92191586,121.2937846,僑愛一街46巷11號東南側停車場,Daxi Dist.,Qiao'ai Parking lot,"No. 11, Ln. 46, Qiaoaiyi St. (Southeast)",30,1
+181,182,2284,龍慈龍和三街口,10,4,中壢區,20240715205135,24.940105,121.243768,龍慈路與龍和三街旁路側,Zhongli Dist.,Longci &amp; Longhe 3rd st. Intersection,Longcih Rd./Longhe 3rd St.,5,1
+182,183,2285,功學社新村,10,2,中壢區,20240715205140,24.954249,121.256356,功學路156號前方空地,Zhongli Dist.,Gongxueshexincun,"No.156, Gongxue Rd.",5,1
+183,184,2286,六和兒童公園,6,4,中壢區,20240715205128,24.963642,121.224583,六和路55號對面公園,Zhongli Dist.,Liuhe Children's Park,"No.55, Liouhe Rd.(opposite)",2,1
+184,185,2287,海湖農會,14,4,蘆竹區,20240715205145,25.101066,121.263396,海湖東路77號旁空地,Luzhu Dist.,Haihu Farmers' Association,"No.77, Haihu E. Rd.",7,1
+185,186,2288,龍潭區衛生所,24,4,龍潭區,20240715205125,24.863704,121.216174,中正路210號對面路側,Longtan Dist.,Public Health Center of Longtan Dist.,"No.210, Zhongzheng Rd.(opposite)",19,1
+186,187,2289,台北榮民總醫院桃園分院,12,0,桃園區,20240715205122,25.002531,121.323988,成功路三段三聖路口旁人行道,Taoyuan Dist.,Taipei Veterans General Hospital Taoyuan Branch,"Sec. 3, Chenggong Rd./Sansheng Rd.",12,1
+187,188,2290,大竹游泳池,30,4,蘆竹區,20240715205119,25.021193,121.257617,大新一街115號旁空地,Luzhu Dist.,Dazhu Swimming Pool,"No.115, Daxin 1st St.",24,1
+188,189,2295,山頂里集會所,8,0,龜山區,20240715205145,24.986224,121.33042,明興街36號旁人行道及路側,Guishan Dist.,Shanding Activity Center,"No.36, Mingsing St.",8,1
+189,190,2296,臻愛家社區,8,6,龜山區,20240715205125,24.987167,121.324152,建國東路31號旁人行道,Guishan Dist.,ZhenAiJia Community,"No.31, Jianguo E. Rd.",2,1
+190,191,2299,水汴頭音樂廣場,16,7,桃園區,20240715205123,25.023323,121.305316,鹽庫西街70號對面空地,Taoyuan Dist.,Shuibiantou Music Square,"No.70, Yanku W. St.(opposite)",9,1
+191,192,2300,桃智路廣豐三街口,8,5,桃園區,20240715205118,24.964802,121.295471,桃智路31號前外側人行道及路側,Taoyuan Dist.,Taozhi Rd. &amp; Guangfeng 3rd St. Intersection,"No.31, Taozhi Rd.",3,1
+192,193,2302,普忠榮民南路口,18,3,中壢區,20240715205144,24.949502,121.256339,普忠路1168號前人行道,Zhongli Dist.,Puzhong &amp; Rongmin S. Rd. Intersection,Puzhong Rd./Rongmin S. Rd.,15,1
+193,194,2303,龍岡停車場,8,5,中壢區,20240715205138,24.930088,121.253064,龍東路202號機車停車場,Zhongli Dist.,Longgang Parking Lot,"No.202, Longdong Rd.",3,1
+194,195,2304,平鎮市廿公園,8,4,平鎮區,20240715205129,24.942799,121.218962,德育路二段104號對向人行道上,Pingzhen Dist.,Pingzhen No.20 Park,"No.104, Sec. 2, Deyu Rd.(opposite)",4,1
+195,196,2305,復興三民路口,16,8,桃園區,20240715205121,24.989258,121.306696,復興路308號旁停車場,Taoyuan Dist.,Fuxing Rd. &amp; Sanmin Rd. Intersection,"No.308, Fusing Rd.",8,1
+196,197,2306,中正光明路口,18,5,龍潭區,20240715205130,24.860621,121.218056,中正路339號對側高架橋下,Longtan Dist.,Zhongzheng Rd. &amp; Guangming Rd. Intersection,"No.339, Jhongjheng Rd.(opposite)",13,1
+197,198,2308,中山路裕和街口,14,7,桃園區,20240715205120,24.980741,121.274497,中山路1306號旁人行道,Taoyuan Dist.,Zhongshan Rd. &amp; Yuhe St. Intersection,"No.1306, Zhongshan Rd.",6,1
+198,199,2309,莒光公園(環中東路),8,5,中壢區,20240715205136,24.948936,121.235966,環中東路二段288號前人行道,Zhongli Dist.,Juguang Park (Huanzhong E. Rd.),"No.288, Sec. 2, Huanjhong E. Rd.",3,1
+199,200,2310,環中東實踐路口,10,2,中壢區,20240715205138,24.953682,121.243344,環中東路776號前人行道,Zhongli Dist.,Huanzhong E. &amp; Shijian Rd. Intersection,"No.776, Huanjhong E. Rd.",8,1
+200,201,2313,觀音中興停車場,20,12,觀音區,20240715205126,25.038199,121.080987,中興路與玉林路口,Guanyin Dist.,Guanyin Zhongxing Parking Lot,Zhongxing Rd./Yulin Rd.,4,1
+201,202,2314,觀音國小,22,2,觀音區,20240715205134,25.03451,121.083586,文化路61號對面人行道,Guanyin Dist.,Guan-Yin Elementary School,"No.61, Wenhua Rd.(opposite)",20,1
+202,203,2315,中路兒2公園,6,0,桃園區,20240715205135,25.007402,121.290432,永安路765巷8號對面公園,Taoyuan Dist.,Zhonglu Second Children's Park,"No.8, Ln. 765, Yong&rsquo;an Rd.(opposite)",6,1
+203,204,2316,平鎮國民運動中心,20,5,平鎮區,20240715205128,24.913957,121.209701,興安路20號對面空地,Pingzhen Dist.,Pingzhen Civil Sports Center,"No.20, Xing&rsquo;an Rd.(opposite)",12,1
+204,205,2317,新明國中,10,0,中壢區,20240715205123,24.956212,121.21231,民族路109號對面人行道,Zhongli Dist.,Hsin Ming Junior High School,"No.109, Minzu Rd.(opposite)",9,1
+205,206,2318,中華路一段文化二路口,12,1,中壢區,20240715205127,24.970929,121.253549,中華路一段480號前方人行道,Zhongli Dist.,"Sec. 1, Zhonghua Rd. &amp; Wenhua 2nd Rd. Intersection","No.480, Sec. 1, Zhonghua Rd.(opposite)",11,1
+206,207,2319,春日路民富九街口,8,3,桃園區,20240715205135,25.007974,121.311688,春日路618號前方人行道,Taoyuan Dist.,Chunri Rd. &amp; Minfu 9th St. Intersection,"No.168, Chunri Rd.",5,1
+207,208,2321,過嶺廣場,8,3,中壢區,20240715205140,24.96035,121.164511,松勤路13號對面公園,Zhongli Dist.,Guoling Square,"No.13, Songqin Rd(opposite)",3,1
+208,209,2322,藝文一街大興西路口,12,10,桃園區,20240715205142,25.013286,121.301557,藝文一街6號對面廣場,Taoyuan Dist.,Yiwen 1st St. &amp; Daxing W. Rd. Intersection,"No.6, Yiwen 1st St.(opposite)",1,1
+209,210,2323,中正莊敬路口,8,4,桃園區,20240715205131,25.023593,121.294916,中正路1379號前方人行道,Taoyuan Dist.,Jhongjheng Rd. &amp; Zhuangjing Rd. Intersection,"No.1379, Jhongjheng Rd.",4,1
+210,211,2325,光榮光峰路口,10,3,龜山區,20240715205139,25.006866,121.343263,光峰路299號旁公園,Guishan Dist.,Guangrong Rd.&amp; Guangfeng Rd.Intersection,"No.299, Guangfeng Rd.",4,1
+211,212,2326,南門公園,10,0,桃園區,20240715205156,24.991347,121.306248,文化街64號對面公園,Taoyuan Dist.,Nanmen Park,"No.64, Wunhua St.(opposite)",8,1
+212,213,2331,觀音區棒壘球場,22,9,觀音區,20240715205132,25.044671,121.138213,福興街147之1號對面停車場,Guanyin Dist.,Baseball and Softball Field of Guanyin Dist.,"No147-1, Fuxing Street, Guanyin District",12,1
+213,214,2332,中壢公15公園,14,4,中壢區,20240715205118,25.000532,121.207897,領航南路一段218號對面公園,Zhongli Dist.,Zhongli Public 15th Park,"No.218, Sec. 1, Linghang S. Rd.(opposite)",10,1
+214,215,2333,介壽公園,8,1,桃園區,20240715205126,24.979016,121.306013,介壽段16地號公園,Taoyuan Dist.,Jieshou Park,No.16 of Jieshou Section,7,1
+215,216,2334,桃園高中,14,0,桃園區,20240715205131,24.997204,121.324855,成功路三段8號旁邊空地,Taoyuan Dist.,Taoyuan Senior High School,"No.8, Sec. 3, Chenggong Rd.",14,1
+216,217,2335,新街國小,10,1,中壢區,20240715205136,24.964378,121.228734,環北路564號旁步道,Zhongli Dist.,Shin Jie Elementary School,"No.564, Huanbei Rd.",9,1
+217,218,2336,福州橋,8,3,中壢區,20240715205115,24.968299,121.234777,福州二街513號對面步道,Zhongli Dist.,Fuzhou Bridge,"No.513, Fujhou 2nd St.(opposite)",4,1
+218,219,2337,陽明運動公園(建新街),12,0,桃園區,20240715205129,24.980992,121.311016,建新街163號對面公園籃球場旁,Taoyuan Dist.,Yangming Sports Park(Jianxin St.),"No.163, Jiansin St.(opposite)",12,1
+219,220,2339,貿商社區,16,10,龜山區,20240715205115,24.990411,121.334721,自強南路自強南路301巷口,Guishan Dist.,Maoshang Community,Zihciang S. Rd./Ln.301 Zihciang S. Rd.,5,1
+220,221,2340,平鎮棒球場,8,0,平鎮區,20240715205140,24.946102,121.219066,德育路240號旁人行道,Pingzhen Dist.,Baseball Field of Pingzhen Dist.,"No.240, Deyu Rd.",8,1
+221,222,2341,大溪永昌宮,22,14,大溪區,20240715205123,24.904152,121.26523,仁和路二段190巷27號前方廣場,Daxi Dist.,Daxi YongChang Temple,"No.27, Ln. 190, Sec. 2, Renhe Rd.",8,1
+222,223,2343,高鐵桃園站(3號出口),12,3,中壢區,20240715205123,25.012423,121.215221,高鐵北路一段6號前人行道,Zhongli Dist.,HSR Taoyuan Station (Exit.3),HSR Taoyuan Station (Exit.3),9,1
+223,224,2346,三元公園,22,4,大溪區,20240715205126,24.882799,121.266547,員林路二段450號對面公園,Daxi Dist.,Sanyuan Park ,"No.450, Sec. 2, Yuanlin Rd.(opposite)",16,1
+224,225,2347,同安親子公園,8,5,桃園區,20240715205153,25.017355,121.302291,同安街358號對面公園,Taoyuan Dist.,Tong An Parent-child Park,"No.358, Tong&rsquo;an St.(opposite)",3,1
+225,226,2348,老街溪環河步道(環北路),8,2,中壢區,20240715205118,24.9661,121.219325,環北路92號旁公園,Zhongli Dist.,Laojiexi Huanhe Trail (Huanbei Rd.),"No.92, Huanbei Rd.",6,1
+226,227,2352,中信公園,16,1,桃園區,20240715205139,24.990791,121.286262,德華街92號對面路側,Taoyuan Dist.,Zhong Xin Park,"No.92, Dehua St.(opposite)",15,1
+227,228,2353,桃園建國國小,10,1,桃園區,20240715205118,24.983616,121.31578,昆明路120號對面人行道,Taoyuan Dist.,Taoyuan Jian-Guo Elementary School,"No.120, Kunming Rd.(opposite)",8,1
+228,229,2355,桃園市立田徑場,14,3,龜山區,20240715205141,24.99277,121.32457,萬壽路二段1379號對面人行道,Guishan Dist.,Taoyuan Municipal Stadium,"No.1379, Sec. 2, Wanshou Rd.(opposite)",10,1
+229,230,2356,忠孝黃昏市場,6,0,中壢區,20240715205145,24.982262,121.25297,吉利七街65號旁綠地,Zhongli Dist.,Zhongxiao Dusk Market,"No.65, Jili 7th St.",6,1
+230,231,2357,廣明停車場,16,8,中壢區,20240715205116,24.954579,121.214063,廣明路78號旁停車場,Zhongli Dist.,Guangming Parking Lot,"No.78, Guangming Rd.",8,1
+231,232,2358,高鐵北青昇二街口,8,3,中壢區,20240715205125,25.018035,121.220334,高鐵北路二段96號旁公園,Zhongli Dist.,Gaotie N. Rd. &amp; Qingsheng 2nd St. Intersection,"No.96, Sec. 2, Gaotie N. Rd.",5,1
+232,233,2360,下埔子溪綠地(天祥七街),10,3,桃園區,20240715205145,25.023509,121.300758,天祥七街72號旁公園,Taoyuan Dist.,Green space of Xiapuzi river(Tiansiang 7th St.),"No.72, Tiansiang 7th St.",6,1
+233,234,2361,遠雄自貿港區加值園區,20,8,大園區,20240715205136,25.093612,121.255208,航翔路5號前方廣場,Dayuan Dist.,Farglory Free Trade Zone Value-Added Park,"No.5, Hangsiang Rd.",11,1
+234,235,2362,仁愛兒童公園,12,11,桃園區,20240715205118,24.985429,121.291219,宏昌九街17號對面公園,Taoyuan Dist.,Renai Children's Park,"No.17, Hongchang 9th St.(opposite)",1,1
+235,236,2363,竹風青庭,6,1,中壢區,20240715205133,25.006039,121.20138,領航北路一段296號前方人行道,Zhongli Dist.,TrueFull QingTing,"No.296, Sec. 1, Linghang N. Rd.",5,1
+236,237,2365,青埔公10公園,22,1,中壢區,20240715205133,25.014404,121.20756,青溪段233地號上人行道,Zhongli Dist.,Qingpu Public 10th  Park,No.233 of Cingsi Section,20,1
+237,238,2366,昭揚建築(水秀公園),8,4,桃園區,20240715205132,24.99845,121.291143,力行路688巷11號旁公園,Taoyuan Dist.,Sound Rise Construction (Shueisiou Park),"No.11, Ln. 688, Lising Rd.",3,1
+238,239,2368,玖都機構,14,2,中壢區,20240715205129,25.004995,121.208652,公園路一段文發路口(土地公廟前),Zhongli Dist.,Jiudu Institution,"Sec. 1, Gongyuan Rd. &amp; Wenfa Rd. Intersection",12,1
+239,240,2369,天翔社區,6,4,中壢區,20240715205138,24.946126,121.258832,華美三路353號前人行道,Zhongli Dist.,Tian Xiang Station,"No.353, Huamei 3rd Rd.",2,1
+240,241,2371,中科院一號門,50,21,龍潭區,20240715205127,24.847931,121.24607,中科段 1124地號空地,Longtan Dist.,NCSIST Gate 1,No.1124 of Jhongke Section,29,1
+241,242,2372,中科院五號門,50,1,大溪區,20240715205121,24.867174,121.256142,石園路615號前方空地,Daxi Dist.,NCSIST Gate 5,"No.615, Shihyuan Rd.(opposite)",49,1
+242,243,2373,中科院石園三村,30,14,龍潭區,20240715205128,24.870971,121.23472,武漢路100號對面停車格,Longtan Dist.,NCSIST Shihyuan 3rd village,"No.100, Wuhan Rd.(opposite)",15,1
+243,244,2374,中科院石園一村,50,2,龍潭區,20240715205117,24.836824,121.241561,佳安段712地號,Longtan Dist.,NCSIST Shihyuan 1st village,No.712 of Jia&rsquo;an Section,45,1
+244,245,2375,中科院石園二村,30,5,龍潭區,20240715205131,24.831178,121.237482,八德路1號旁停車場,Longtan Dist.,NCSIST Shihyuan 2nd village,"No.1, Bade Rd.",24,1
+245,246,2380,中壢區殯葬服務中心,16,9,中壢區,20240715205116,24.976932,121.227558,培英路289號前人行道,Zhongli Dist.,"Office of Funeral Services,Zhongli","No.289, Peiying Rd.",7,1
+246,247,2385,健行科技大學民設學院,12,2,中壢區,20240715205153,24.949331,121.22901,衡陽街93號對面停車場,Zhongli Dist.,College of Human Ecology and Design(UCH),"No.93, Hengyang St.(opposite)",10,1
+247,248,2386,老街溪河岸廣場,8,1,中壢區,20240715205126,24.960272,121.2191,中美路二段192號旁廣場,Zhongli Dist.,Laojie Creek Riverside Square,"No.192, Sec. 2, Jhongmei Rd.",7,1
+248,249,2387,中壢藝術館,14,10,中壢區,20240715205132,24.958227,121.227002,中美路31號對面人行道,Zhongli Dist.,Zhongli Arts Hall,"No.31, Zhongmei Rd. (opposite)",4,1
+249,250,2390,復興路朝陽街口,10,2,桃園區,20240715205144,24.990843,121.31611,復興路51號旁停車場,Taoyuan Dist.,Fuxing Rd. &amp; Zhaoyang St. Intersection,"No.51, Fusing Rd.",8,1
+250,251,2391,龍園公園,8,7,桃園區,20240715205142,24.986313,121.274887,中山路1216巷公園旁,Taoyuan Dist.,Ryuen Park,"Ln. 1216, Zhongshan Rd.",1,1
+251,252,2392,八德國民運動中心,18,7,八德區,20240715205122,24.95981416,121.2940747,廣福路218號前人行道,Bade Dist.,Bade Civil Sports Center,"No. 218, Guangfu Rd.",11,1
+252,253,2393,興仁市民活動中心,22,2,蘆竹區,20240715205144,25.01430727,121.2621253,興仁路330之1號前廣場,Luzhu Dist.,Xingren Civil Activity Center,"No. 330-1, Xingren Rd.",19,1
+253,254,2394,同心公園,8,4,中壢區,20240715205118,25.00485076,121.2188854,青埔六街/青埔三街口(東南側),Zhongli Dist.,Tongxin Park,Qingbu 6th St./Qingbu 3rd St. intersection. (Southeast),4,1
+254,255,2395,東埔公園,10,2,桃園區,20240715205137,25.005447,121.306878,正康二街/美光街口東北側,Taoyuan Dist.,Dongbu Park,Zhengkang 2nd St./Meiguang St. ,8,1
+255,256,2398,青溪國中,10,6,桃園區,20240715205126,24.99752272,121.3201492,中山東路/中山東路126巷口(西南側),Taoyuan Dist.,Ching-Hsi Junior High School,"Zhongshan E Rd./Ln. 126, Zhongshan E Rd. (Southwest)",4,1
+256,257,2399,海湖地景公園,22,6,蘆竹區,20240715205120,25.113297,121.252352,下海湖公車站東側空地,Luzhu Dist.,Haihu landscape Park,Xiahaihu bus station east side space,14,1
+257,258,2403,大業路二段235巷口,8,6,桃園區,20240715205137,25.0211,121.3103,大業路二段252號旁,Taoyuan Dist.,"Ln. 235, Sec. 2, Daye Rd. Intersection","No. 252, Sec. 2, Daye Rd.",2,1
+258,259,2404,桃園煉油廠南門綠地,16,2,桃園區,20240715205134,25.0263,121.3099,中油煉油廠南門綠地南側(鹽務路),Taoyuan Dist.,CPC Nanmen Park,CPC Nanmen Park (South) (Yanwu Rd.),13,1
+259,260,2405,萬壽德育街口,24,1,龜山區,20240715205115,24.992,121.3232871,萬壽路二段1427號東側停車場,Guishan Dist.,Wanshou Rd. &amp; Deyu St. Intersection,"No. 1427, Sec. 2, Wanshou Rd. (East)",21,1
+260,261,2406,勞工教育大樓,20,3,桃園區,20240715205135,25.0028,121.3096,民生路650號,Taoyuan Dist.,Labor Education Building,"No. 650, Minsheng Rd.",17,1
+261,262,2408,法治守法路口,14,2,桃園區,20240715205127,24.99274129,121.2964609,法治路4號對側,Taoyuan Dist.,Fazhi Rd. &amp; Shoufa Rd. Intersection,"No. 4, Fazhi Rd. (opposite)",6,1
+262,263,2409,中路運動公園,16,4,桃園區,20240715205116,25.0043,121.2946,溫州一路59號對側,Taoyuan Dist.,Zhonglu Sports Park,"No. 59, Wenzhou 1st Rd. (opposite)",10,1
+263,264,2410,觀音樹林里籃球場,18,4,觀音區,20240715205139,25.0517,121.1231,民生路與民生路71巷口,Guanyin Dist.,Guanyin Shulin Vil. Basketball Court,"Ln. 71, Minsheng Rd. &amp; Minsheng Rd. intersection",12,1
+264,265,2413,觀音行政園區,22,3,觀音區,20240715205136,25.02770049,121.0839325,觀新路52號旁,Guanyin Dist.,Guanyin Executive Park,"No. 52, Guanxin Rd.",18,1
+265,266,2414,捷運老街溪站(A22),14,0,中壢區,20240715205131,24.95826348,121.2193014,中豐路與中央西路一段西側人行道,Zhongli Dist.,MRT Laojie River Station (A22),"Zhongfeng Rd. &amp; Sec.1, Zhongyang W. Rd. intersection (West)",14,1
+266,267,2415,永豐路519巷口,26,1,八德區,20240715205133,24.97420362,121.273361,永豐路490號西北側,Bade Dist.,"Ln 519, Yongfeng Rd. Intersection","No. 490, Yongfeng Rd.(Northwest)",25,1
+267,268,2416,幸福路水岸二街口,12,0,桃園區,20240715205138,25.02798487,121.2966636,幸福路318號,Taoyuan Dist.,Xingfu Rd.&amp; Shui'an 2nd St. Intersection,"No. 318, Xingfu Rd.",11,1
+268,269,2420,良茂詠恆,16,0,中壢區,20240715205142,25.00643489,121.2164173,領航南路二段350~396號前,Zhongli Dist.,LM Qingbu Station,"No. 350, Sec. 2, Linghang S. Rd.",16,1
+269,270,2421,置地廣場 桃園,6,0,中壢區,20240715205145,25.016959,121.212729,春德路132號對側,Zhongli Dist.,Landmark Plaza Taoyuan,"No. 132, Chunde Rd. (opposite)",5,1
+270,271,2422,中大公園,20,6,八德區,20240715205134,24.9288,121.2809,建德路與興豐路口,Bade Dist.,Zhongda Park,Jiande Rd. &amp; Xingfeng Rd. Intersection,13,1
+271,272,2423,領航南青溪路口,10,1,中壢區,20240715205124,25.017846,121.22416,領航南路四段與青溪路二段口(東北側),Zhongli Dist.,Linghang S Rd. &amp; Qingxi Rd. Intersection,"Sec. 4, Linghang S Rd. &amp; Sec. 2, Qingxi Rd. Intersection (Northeast)",8,1
+272,273,2424,櫻花緻,12,5,中壢區,20240715205115,25.0051,121.2234,青溪路一段與青埔六街口東側人行道,Zhongli Dist.,SAKURA ARCH,"Sec. 1, Qingxi Rd.&amp;Qingpu 6th St. Intersection (East)",7,1
+273,274,2427,龍潭婦幼館,22,0,龍潭區,20240715205141,24.86852588,121.2067164,干城路19巷30號南側停車場,Longtan Dist.,Women and Children Hall LongTan Dt.,"No. 30, Ln. 19, Gancheng Rd. (South)",21,1
+274,275,2429,青昇公園,12,5,中壢區,20240715205126,25.01471253,121.2219515,領航南路四段與青昇路口,Zhongli Dist.,Qingsheng Park,"Sec. 4, Linghang S. Rd.&amp;Qingsheng Rd. Intersection",7,1
+275,276,2430,至善高中,18,0,大溪區,20240715205138,24.86728539,121.2844996,康莊路645號,Daxi Dist.,Jhih Shan High School,"No. 645, Kangzhuang Rd.",17,1
+276,277,2431,新屋高中,32,2,新屋區,20240715205120,24.96949493,121.1008929,三民路與中興路口,Xinwu Dist.,Xinwu Senior High School,Sanmin Rd. &amp; Zhongxing Rd. Intersection,30,1

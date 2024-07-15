@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_eb2bf50d49b34c35e1afa838843ecd11 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_eb2bf50d49b34c35e1afa838843ecd11" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_eb2bf50d49b34c35e1afa838843ecd11 = L.map(
+                "map_eb2bf50d49b34c35e1afa838843ecd11",
+                {
+                    center: [24.968087048493047, 121.23510010050703],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 15,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_54ca51b9215eb8bb7259dedcea75e23f = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_54ca51b9215eb8bb7259dedcea75e23f.addTo(map_eb2bf50d49b34c35e1afa838843ecd11);
+        
+    
+            var marker_2f7f70e611caa98e0cd6db7c7d140c29 = L.marker(
+                [24.968087048493047, 121.23510010050703],
+                {}
+            ).addTo(map_eb2bf50d49b34c35e1afa838843ecd11);
+        
+    
+            var icon_b5839224470c4b6cc5b3a1ac72e2477c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_2f7f70e611caa98e0cd6db7c7d140c29.setIcon(icon_b5839224470c4b6cc5b3a1ac72e2477c);
+        
+    
+        var popup_a478a5a0521bd156a0e2fe41da212982 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e31b6d830ee1a153c8a73833aaffa9f4 = $(`<div id="html_e31b6d830ee1a153c8a73833aaffa9f4" style="width: 100.0%; height: 100.0%;">Your Location</div>`)[0];
+                popup_a478a5a0521bd156a0e2fe41da212982.setContent(html_e31b6d830ee1a153c8a73833aaffa9f4);
+            
+        
+
+        marker_2f7f70e611caa98e0cd6db7c7d140c29.bindPopup(popup_a478a5a0521bd156a0e2fe41da212982)
+        ;
+
+        
+    
+    
+            var marker_27f2cd1fe89b4bc875367faa0e8485a4 = L.marker(
+                [24.968299, 121.234777],
+                {}
+            ).addTo(map_eb2bf50d49b34c35e1afa838843ecd11);
+        
+    
+            var icon_43c9723f0c579e9ec0b3aa198b6e1070 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_27f2cd1fe89b4bc875367faa0e8485a4.setIcon(icon_43c9723f0c579e9ec0b3aa198b6e1070);
+        
+    
+        var popup_6bc451c20e5b68bfb9328564f3b31499 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_97ccfb33741705b32e9f0d6911c6a521 = $(`<div id="html_97ccfb33741705b32e9f0d6911c6a521" style="width: 100.0%; height: 100.0%;">福州橋<br>Distance: 40.20 m<br>Total bikes: 8<br>Available bikes: 2<br><a href='https://www.google.com/maps/search/?api=1&query=24.968299,121.234777' target='_blank'>Google Maps</a></div>`)[0];
+                popup_6bc451c20e5b68bfb9328564f3b31499.setContent(html_97ccfb33741705b32e9f0d6911c6a521);
+            
+        
+
+        marker_27f2cd1fe89b4bc875367faa0e8485a4.bindPopup(popup_6bc451c20e5b68bfb9328564f3b31499)
+        ;
+
+        
+    
+    
+            var marker_2fe015d9601f6805720afda062c20a03 = L.marker(
+                [24.964378, 121.228734],
+                {}
+            ).addTo(map_eb2bf50d49b34c35e1afa838843ecd11);
+        
+    
+            var icon_324d3a7a3f1a33a343ed9226a9612a5d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_2fe015d9601f6805720afda062c20a03.setIcon(icon_324d3a7a3f1a33a343ed9226a9612a5d);
+        
+    
+        var popup_c2226941d7eb229353e84d629b12d63b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_254b5a9dea2342a4abdd7d9ac3c4fa52 = $(`<div id="html_254b5a9dea2342a4abdd7d9ac3c4fa52" style="width: 100.0%; height: 100.0%;">新街國小<br>Distance: 762.92 m<br>Total bikes: 10<br>Available bikes: 2<br><a href='https://www.google.com/maps/search/?api=1&query=24.964378,121.228734' target='_blank'>Google Maps</a></div>`)[0];
+                popup_c2226941d7eb229353e84d629b12d63b.setContent(html_254b5a9dea2342a4abdd7d9ac3c4fa52);
+            
+        
+
+        marker_2fe015d9601f6805720afda062c20a03.bindPopup(popup_c2226941d7eb229353e84d629b12d63b)
+        ;
+
+        
+    
+    
+            var marker_6b9fd1ed55554108d066cda3827d0f68 = L.marker(
+                [24.97561, 121.234553],
+                {}
+            ).addTo(map_eb2bf50d49b34c35e1afa838843ecd11);
+        
+    
+            var icon_0f4466344342e9c0aab2409c7fc47618 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_6b9fd1ed55554108d066cda3827d0f68.setIcon(icon_0f4466344342e9c0aab2409c7fc47618);
+        
+    
+        var popup_7e8fbbe217ff526907e4482e49557804 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_47bfbf8a72c64d6ab5aa454dd2d07832 = $(`<div id="html_47bfbf8a72c64d6ab5aa454dd2d07832" style="width: 100.0%; height: 100.0%;">啟英高中<br>Distance: 835.16 m<br>Total bikes: 12<br>Available bikes: 0<br><a href='https://www.google.com/maps/search/?api=1&query=24.97561,121.234553' target='_blank'>Google Maps</a></div>`)[0];
+                popup_7e8fbbe217ff526907e4482e49557804.setContent(html_47bfbf8a72c64d6ab5aa454dd2d07832);
+            
+        
+
+        marker_6b9fd1ed55554108d066cda3827d0f68.bindPopup(popup_7e8fbbe217ff526907e4482e49557804)
+        ;
+
+        
+    
+    
+            var marker_c7feb9398a19fe393dd00889b0ab1841 = L.marker(
+                [24.962068, 121.230027],
+                {}
+            ).addTo(map_eb2bf50d49b34c35e1afa838843ecd11);
+        
+    
+            var icon_a7d21168e142197209caf9c48d34d1b9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_c7feb9398a19fe393dd00889b0ab1841.setIcon(icon_a7d21168e142197209caf9c48d34d1b9);
+        
+    
+        var popup_1985278f23c8d238b93810ab72682003 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_15e3de1cd9bd22a2a1577a63befaea5a = $(`<div id="html_15e3de1cd9bd22a2a1577a63befaea5a" style="width: 100.0%; height: 100.0%;">中壢區聯合辦公大樓<br>Distance: 840.82 m<br>Total bikes: 10<br>Available bikes: 3<br><a href='https://www.google.com/maps/search/?api=1&query=24.962068,121.230027' target='_blank'>Google Maps</a></div>`)[0];
+                popup_1985278f23c8d238b93810ab72682003.setContent(html_15e3de1cd9bd22a2a1577a63befaea5a);
+            
+        
+
+        marker_c7feb9398a19fe393dd00889b0ab1841.bindPopup(popup_1985278f23c8d238b93810ab72682003)
+        ;
+
+        
+    
+    
+            var marker_029d22a4f3f926ab97122b1131ce5413 = L.marker(
+                [24.971805, 121.227697],
+                {}
+            ).addTo(map_eb2bf50d49b34c35e1afa838843ecd11);
+        
+    
+            var icon_e40b0868cfaeb1644f5b58001cfadef7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_029d22a4f3f926ab97122b1131ce5413.setIcon(icon_e40b0868cfaeb1644f5b58001cfadef7);
+        
+    
+        var popup_4a01d3c997b257510e030166ed8355ff = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_19a06ac9d5a5324477869d7de239b462 = $(`<div id="html_19a06ac9d5a5324477869d7de239b462" style="width: 100.0%; height: 100.0%;">忠福廣場<br>Distance: 853.47 m<br>Total bikes: 10<br>Available bikes: 3<br><a href='https://www.google.com/maps/search/?api=1&query=24.971805,121.227697' target='_blank'>Google Maps</a></div>`)[0];
+                popup_4a01d3c997b257510e030166ed8355ff.setContent(html_19a06ac9d5a5324477869d7de239b462);
+            
+        
+
+        marker_029d22a4f3f926ab97122b1131ce5413.bindPopup(popup_4a01d3c997b257510e030166ed8355ff)
+        ;
+
+        
+    
+</script>
+</html>
