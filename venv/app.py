@@ -42,7 +42,8 @@ def handle_location(event):
     # 發送結果
     messages = [
         TextSendMessage(text=f"找到離你最近的 5 個單車站點：\n" + "\n".join(
-            [f"{row['sna']} - {row['distance']:.2f}m\nGoogle Maps: {row['google_maps_link']}" for _, row in top_five_stations.iterrows()]
+            [f"{row['sna']} - {row['distance']:.2f}m\nGoogle Maps:\
+                {row['google_maps_link']}" for _, row in top_five_stations.iterrows()]
         )),
         TextSendMessage(text=f"完整地圖：\n{map_url}")
     ]
